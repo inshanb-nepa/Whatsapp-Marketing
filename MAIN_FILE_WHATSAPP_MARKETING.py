@@ -16,11 +16,11 @@ st.title("Products Marketing via Whatsapp:")
 
 DATABASE_URL = URL.create(
     "mssql+pyodbc",
-    username="prashidha2876",
-    password="Nepa@2876",
-    host="helpdesk-server-76.database.windows.net",
+    username="",
+    password="",
+    host="",
     port=1433,
-    database="leads_scrapper",
+    database="",
     query={"driver": "ODBC Driver 18 for SQL Server"},
 )
 
